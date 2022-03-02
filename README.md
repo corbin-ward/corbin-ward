@@ -49,8 +49,6 @@
 
 [![Spotify](https://novatorem-corndogward.vercel.app/api/spotify)](https://open.spotify.com/user/11msqe3izp6jn25kumh8c00sm)
 
-<br />
-
 ---
 
 <details>
