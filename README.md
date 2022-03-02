@@ -7,6 +7,8 @@
 - ⚡ Hobbies: I like to play volleyball and hike
 - 🤝 ΣΧ: Sigma Chi Lamda Delta Chapter
 
+---
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://corbinward.myportfolio.com#gh-light-mode-only)
@@ -14,6 +16,8 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/corbin-ward#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/corbin-ward#gh-dark-mode-only)
+
+---
 
 ### Languages:
 
@@ -39,11 +43,12 @@
 
 <br />
 
+---
+
 ### Now Playing on Spotify:
 
 [![Spotify](https://novatorem-corndogward.vercel.app/api/spotify)](https://open.spotify.com/user/11msqe3izp6jn25kumh8c00sm)
 
-<br />
 <br />
 
 ---
