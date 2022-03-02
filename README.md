@@ -3,7 +3,7 @@
 ## I'm a Computer Science and Engineering Undergraduate at the University of California: Merced!
 
 - 🌱 I’m currently learning app development using Flutter
-- 🥅 Current Goal: Learn React
+- 🥅 Future Goal: Learn React
 - ⚡ Hobbies: I like to play volleyball and hike
 - 🤝 ΣΧ: Sigma Chi Lamda Delta Chapter
 
