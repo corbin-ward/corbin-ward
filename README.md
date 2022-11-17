@@ -49,20 +49,7 @@
 
 [![Spotify](https://novatorem-corndogward.vercel.app/api/spotify)](https://open.spotify.com/user/11msqe3izp6jn25kumh8c00sm)
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Corbin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=corndogward&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
