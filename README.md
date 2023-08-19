@@ -2,18 +2,15 @@
 
 ## I'm a Computer Science and Engineering Undergraduate at the University of California: Merced!
 
-- 🌱 I’m currently learning app development using Flutter
-- 🥅 Future Goal: Learn React
+- 🌱 I’m currently learning about instruction sets
+- 🥅 Future Goal: Learn React Native
 - ⚡ Hobbies: I like to play volleyball and hike
-- 🤝 ΣΧ: Sigma Chi Lamda Delta Chapter
+- 🤝 ΣΧ: Sigma Chi Lamda Delta Chapter | ΘΤ: Theta Tau Mu Delta Chapter
 
 ---
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://corbinward.myportfolio.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://corbinward.myportfolio.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/corbin-ward#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/corbin-ward#gh-dark-mode-only)
 
