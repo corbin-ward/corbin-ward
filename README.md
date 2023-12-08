@@ -2,10 +2,9 @@
 
 ## I'm a Computer Science and Engineering Undergraduate at the University of California: Merced!
 
-- 🌱 I’m currently learning about instruction sets
+- 🌱 I’m currently learning about Full Stack Development
 - 🥅 Future Goal: Learn React Native
-- ⚡ Hobbies: I like to play volleyball and hike
-- 🤝 ΣΧ: Sigma Chi Lamda Delta Chapter | ΘΤ: Theta Tau Mu Delta Chapter
+- 🤝 ΣΧ: Sigma Chi Lambda Delta Chapter | ΘΤ: Theta Tau Mu Delta Chapter
 
 ---
 
