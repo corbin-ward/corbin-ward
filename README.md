@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science and Engineering Undergraduate at the University of California: Merced!
 
-- 🌱 I’m currently learning about Full Stack Development
+- 🌱 I’m currently learning about LLM Prompting
 - 🥅 Future Goal: Learn React Native
 - 🤝 ΣΧ: Sigma Chi Lambda Delta Chapter | ΘΤ: Theta Tau Mu Delta Chapter
 
