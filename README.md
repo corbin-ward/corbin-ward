@@ -1,53 +1,114 @@
-# Hi, I'm Corbin 👋 
+![Header](./img/banner.png)
 
-## I'm a Computer Science and Engineering Undergraduate at the University of California: Merced!
+<h3 align="center">A Product-Minded Engineer who bridges the gap between user-centric design and scalable code.</h3>
 
-- 🌱 I’m currently learning about LLM Prompting
-- 🥅 Future Goal: Learn React Native
-- 🤝 ΣΧ: Sigma Chi Lambda Delta Chapter | ΘΤ: Theta Tau Mu Delta Chapter
+<p align="center">
+  <a href="https://linkedin.com/in/corbin-ward">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:corbinwinbox@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/corbin-ward">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
----
+<h2 align="center">My Toolkit</h2>
+<p align="center">
+  I'm experienced in the full product lifecycle, from initial user research and design in Figma to building, deploying, and scaling full-stack applications.
+</p>
 
-### Connect with me:
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/PRODUCT_&_DESIGN-black?style=for-the-badge&logo=figma" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" />
+      <img src="https://img.shields.io/badge/UX_Design-blue?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/FRONTEND-black?style=for-the-badge&logo=react" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/BACKEND_&_DATA-black?style=for-the-badge&logo=python" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/corbin-ward#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/corbin-ward#gh-dark-mode-only)
+<h2 align="center">My GitHub Activity</h2>
 
----
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=corbin-ward&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corbin-ward&layout=compact&theme=radical&langs_count=6" />
+  </a>
+</p>
 
-### Languages:
+<h2 align="center">Featured Projects</h2>
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/java/original/JavaOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/csharp/original/CsharpOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/c/original/COriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/cplusplus/original/CplusplusOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/python/original/PythonOriginal.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<br />
-
-### Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-
-<br />
-
----
-
-### Now Playing on Spotify:
-
-[![Spotify](https://novatorem-corndogward.vercel.app/api/spotify)](https://open.spotify.com/user/11msqe3izp6jn25kumh8c00sm)
-
-
-
-</details>
-
-[website]: https://corbinward.myportfolio.com
-[linkedin]: https://linkedin.com/in/corbin-ward
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LLM Assisted Scheduler</h3>
+      <p>
+        An AI-powered tool to automate course planning using natural language. I defined the <strong>product vision</strong>, conducted user testing, and designed the interactive <strong>Figma prototypes</strong> to simplify a complex UI.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4-000000?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Team Lead - Customer Process Portal</h3>
+      <p>
+        As <strong>Product Owner</strong>, I led a team of 4 developers to build a customer-facing portal. I managed the full <strong>Agile lifecycle</strong>, prioritized the backlog based on client feedback, and translated user research into a seamless UI.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Accessibility (HandsFree Scholar)</h3>
+      <p>
+        A comprehensive accessibility system for hands-free navigation of digital learning platforms. This solution enables users to complete academic tasks using <strong>Tobii eye-tracking</strong> and <strong>Talon voice commands</strong>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Talon-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Accessibility-grey?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Live Philanthropy Dashboard</h3>
+      <p>
+        Owned end-to-end development of a live-scoring platform that scaled to 100+ concurrent users and <strong>boosted engagement by 40%</strong>. It replaced a manual process by pulling live data from a <strong>Google Sheets API</strong> backend.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
